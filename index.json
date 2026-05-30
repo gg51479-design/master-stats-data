@@ -1,0 +1,317 @@
+[
+  {
+    "id": "5Y-D2-M1",
+    "description": "Simulation 5Y, 2 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "40",
+    "accuracy": "29.89%"
+  },
+  {
+    "id": "5Y-D2-M2",
+    "description": "Simulation 5Y, 2 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "38",
+    "accuracy": "6.18%"
+  },
+  {
+    "id": "5Y-D2-M3",
+    "description": "Simulation 5Y, 2 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "40",
+    "accuracy": "10.61%"
+  },
+  {
+    "id": "10Y-D2-M1",
+    "description": "Simulation 10Y, 2 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "35",
+    "accuracy": "22.32%"
+  },
+  {
+    "id": "10Y-D2-M2",
+    "description": "Simulation 10Y, 2 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "38",
+    "accuracy": "6.89%"
+  },
+  {
+    "id": "10Y-D2-M3",
+    "description": "Simulation 10Y, 2 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "38",
+    "accuracy": "16.69%"
+  },
+  {
+    "id": "20Y-D2-M1",
+    "description": "Simulation 20Y, 2 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "38",
+    "accuracy": "36.41%"
+  },
+  {
+    "id": "20Y-D2-M2",
+    "description": "Simulation 20Y, 2 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "39",
+    "accuracy": "19.64%"
+  },
+  {
+    "id": "20Y-D2-M3",
+    "description": "Simulation 20Y, 2 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "42",
+    "accuracy": "21.64%"
+  },
+  {
+    "id": "30Y-D2-M1",
+    "description": "Simulation 30Y, 2 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "39",
+    "accuracy": "37.77%"
+  },
+  {
+    "id": "30Y-D2-M2",
+    "description": "Simulation 30Y, 2 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "39",
+    "accuracy": "19.14%"
+  },
+  {
+    "id": "30Y-D2-M3",
+    "description": "Simulation 30Y, 2 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "39",
+    "accuracy": "27.43%"
+  },
+  {
+    "id": "MAX-D2-M1",
+    "description": "Simulation MAX, 2 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "39",
+    "accuracy": "37.71%"
+  },
+  {
+    "id": "MAX-D2-M2",
+    "description": "Simulation MAX, 2 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "39",
+    "accuracy": "18.94%"
+  },
+  {
+    "id": "MAX-D2-M3",
+    "description": "Simulation MAX, 2 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "41",
+    "accuracy": "28.48%"
+  },
+  {
+    "id": "5Y-D3-M1",
+    "description": "Simulation 5Y, 3 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "513",
+    "accuracy": "24.03%"
+  },
+  {
+    "id": "5Y-D3-M2",
+    "description": "Simulation 5Y, 3 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "347",
+    "accuracy": "13.32%"
+  },
+  {
+    "id": "5Y-D3-M3",
+    "description": "Simulation 5Y, 3 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "418",
+    "accuracy": "0.00%"
+  },
+  {
+    "id": "10Y-D3-M1",
+    "description": "Simulation 10Y, 3 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "488",
+    "accuracy": "26.25%"
+  },
+  {
+    "id": "10Y-D3-M2",
+    "description": "Simulation 10Y, 3 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "362",
+    "accuracy": "17.07%"
+  },
+  {
+    "id": "10Y-D3-M3",
+    "description": "Simulation 10Y, 3 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "447",
+    "accuracy": "13.28%"
+  },
+  {
+    "id": "20Y-D3-M1",
+    "description": "Simulation 20Y, 3 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "495",
+    "accuracy": "26.63%"
+  },
+  {
+    "id": "20Y-D3-M2",
+    "description": "Simulation 20Y, 3 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "343",
+    "accuracy": "23.55%"
+  },
+  {
+    "id": "20Y-D3-M3",
+    "description": "Simulation 20Y, 3 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "414",
+    "accuracy": "9.90%"
+  },
+  {
+    "id": "30Y-D3-M1",
+    "description": "Simulation 30Y, 3 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "492",
+    "accuracy": "26.48%"
+  },
+  {
+    "id": "30Y-D3-M2",
+    "description": "Simulation 30Y, 3 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "356",
+    "accuracy": "20.99%"
+  },
+  {
+    "id": "30Y-D3-M3",
+    "description": "Simulation 30Y, 3 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "462",
+    "accuracy": "8.49%"
+  },
+  {
+    "id": "MAX-D3-M1",
+    "description": "Simulation MAX, 3 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "493",
+    "accuracy": "26.39%"
+  },
+  {
+    "id": "MAX-D3-M2",
+    "description": "Simulation MAX, 3 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "356",
+    "accuracy": "21.03%"
+  },
+  {
+    "id": "MAX-D3-M3",
+    "description": "Simulation MAX, 3 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "482",
+    "accuracy": "8.18%"
+  },
+  {
+    "id": "5Y-D6-M1",
+    "description": "Simulation 5Y, 6 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "376263",
+    "accuracy": "45.07%"
+  },
+  {
+    "id": "5Y-D6-M2",
+    "description": "Simulation 5Y, 6 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "522393",
+    "accuracy": "29.64%"
+  },
+  {
+    "id": "5Y-D6-M3",
+    "description": "Simulation 5Y, 6 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "444952",
+    "accuracy": "33.17%"
+  },
+  {
+    "id": "10Y-D6-M1",
+    "description": "Simulation 10Y, 6 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "423951",
+    "accuracy": "43.05%"
+  },
+  {
+    "id": "10Y-D6-M2",
+    "description": "Simulation 10Y, 6 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "502634",
+    "accuracy": "32.41%"
+  },
+  {
+    "id": "10Y-D6-M3",
+    "description": "Simulation 10Y, 6 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "417861",
+    "accuracy": "37.96%"
+  },
+  {
+    "id": "20Y-D6-M1",
+    "description": "Simulation 20Y, 6 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "414222",
+    "accuracy": "39.56%"
+  },
+  {
+    "id": "20Y-D6-M2",
+    "description": "Simulation 20Y, 6 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "479448",
+    "accuracy": "32.25%"
+  },
+  {
+    "id": "20Y-D6-M3",
+    "description": "Simulation 20Y, 6 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "445280",
+    "accuracy": "33.95%"
+  },
+  {
+    "id": "30Y-D6-M1",
+    "description": "Simulation 30Y, 6 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "421476",
+    "accuracy": "37.96%"
+  },
+  {
+    "id": "30Y-D6-M2",
+    "description": "Simulation 30Y, 6 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "449378",
+    "accuracy": "35.17%"
+  },
+  {
+    "id": "30Y-D6-M3",
+    "description": "Simulation 30Y, 6 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "430680",
+    "accuracy": "32.58%"
+  },
+  {
+    "id": "MAX-D6-M1",
+    "description": "Simulation MAX, 6 หลัก, Statistical & Seasonal (SARIMAX + Median)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "419984",
+    "accuracy": "38.24%"
+  },
+  {
+    "id": "MAX-D6-M2",
+    "description": "Simulation MAX, 6 หลัก, Recent Behavior (HW + Pattern)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "448905",
+    "accuracy": "35.26%"
+  },
+  {
+    "id": "MAX-D6-M3",
+    "description": "Simulation MAX, 6 หลัก, AI Balanced (Hybrid Ensemble V19)",
+    "draw_date": "งวดวันที่ 01 มิ.ย. 2569",
+    "prediction": "425040",
+    "accuracy": "33.22%"
+  }
+]
